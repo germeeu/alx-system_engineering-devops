@@ -1,1 +1,1 @@
-Creating script for shell navigation
+Initial Readme
